@@ -1,4 +1,4 @@
-# QuestõesResolvidasUri
+# Questões resolvidas uri
 Questões resolvidas na plataforma URI/beecrowd nas linguagens Python, Java, Dart.
 ---
 Meu perfil: 
